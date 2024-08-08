@@ -1,0 +1,15 @@
+C:\Projetos\AEDES\listas_aedes\Revisao\bin\Debug\net7.0\Revisao.exe
+C:\Projetos\AEDES\listas_aedes\Revisao\bin\Debug\net7.0\Revisao.deps.json
+C:\Projetos\AEDES\listas_aedes\Revisao\bin\Debug\net7.0\Revisao.runtimeconfig.json
+C:\Projetos\AEDES\listas_aedes\Revisao\bin\Debug\net7.0\Revisao.dll
+C:\Projetos\AEDES\listas_aedes\Revisao\bin\Debug\net7.0\Revisao.pdb
+C:\Projetos\AEDES\listas_aedes\Revisao\obj\Debug\net7.0\Revisao.csproj.AssemblyReference.cache
+C:\Projetos\AEDES\listas_aedes\Revisao\obj\Debug\net7.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AEDES\listas_aedes\Revisao\obj\Debug\net7.0\Revisao.AssemblyInfoInputs.cache
+C:\Projetos\AEDES\listas_aedes\Revisao\obj\Debug\net7.0\Revisao.AssemblyInfo.cs
+C:\Projetos\AEDES\listas_aedes\Revisao\obj\Debug\net7.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Projetos\AEDES\listas_aedes\Revisao\obj\Debug\net7.0\Revisao.dll
+C:\Projetos\AEDES\listas_aedes\Revisao\obj\Debug\net7.0\refint\Revisao.dll
+C:\Projetos\AEDES\listas_aedes\Revisao\obj\Debug\net7.0\Revisao.pdb
+C:\Projetos\AEDES\listas_aedes\Revisao\obj\Debug\net7.0\Revisao.genruntimeconfig.cache
+C:\Projetos\AEDES\listas_aedes\Revisao\obj\Debug\net7.0\ref\Revisao.dll

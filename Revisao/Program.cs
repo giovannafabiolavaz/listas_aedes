@@ -5,7 +5,7 @@ namespace Revisao
     {
         private static void Main(string[] args)
         {
-            //Questao1.Rodar();
+            Questao1.Rodar();
             //Questao2.Rodar();
             //Questao3.Rodar();
             //Questao4.Rodar();
