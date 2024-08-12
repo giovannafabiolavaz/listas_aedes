@@ -4,7 +4,7 @@ namespace Revisao
     {
         public static void Rodar()
         {
-            Console.WriteLine("Digite dois números para verificar se eles são números amigos:\n");
+            Console.WriteLine("Digite dois numeros para verificar se eles sao numeros amigos:\n");
             int x = int.Parse(Console.ReadLine());
             int y = int.Parse(Console.ReadLine());
             int totalX = 0, totalY = 0;
@@ -20,10 +20,10 @@ namespace Revisao
                 }
             }
             if(totalX == y && totalY == x){
-                Console.WriteLine($"{x} e {y} são números amigos!");
+                Console.WriteLine($"{x} e {y} sao numeros amigos!");
             }
             else 
-            Console.WriteLine($"{x} e {y} não são números amigos!");
+            Console.WriteLine($"{x} e {y} nao sao numeros amigos!");
         }
     }
 }
