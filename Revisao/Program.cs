@@ -9,9 +9,9 @@ namespace Revisao
             //Questao2.Rodar();
             //Questao3.Rodar();
             //Questao4.Rodar();
-            Questao5.Rodar();
+            //Questao5.Rodar();
             //Questao6.Rodar();
-            //Questao7.Rodar();
+            Questao7.Rodar();
             //Questao8.Rodar();
             //Questao9.Rodar();
             //Questao10.Rodar();

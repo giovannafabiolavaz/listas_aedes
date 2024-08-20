@@ -1,0 +1,15 @@
+C:\Projetos\AEDES\listas_aedes\Supermercado\obj\Debug\net7.0\Supermercado.csproj.AssemblyReference.cache
+C:\Projetos\AEDES\listas_aedes\Supermercado\obj\Debug\net7.0\Supermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AEDES\listas_aedes\Supermercado\obj\Debug\net7.0\Supermercado.AssemblyInfoInputs.cache
+C:\Projetos\AEDES\listas_aedes\Supermercado\obj\Debug\net7.0\Supermercado.AssemblyInfo.cs
+C:\Projetos\AEDES\listas_aedes\Supermercado\obj\Debug\net7.0\Supermercado.csproj.CoreCompileInputs.cache
+C:\Projetos\AEDES\listas_aedes\Supermercado\bin\Debug\net7.0\Supermercado.exe
+C:\Projetos\AEDES\listas_aedes\Supermercado\bin\Debug\net7.0\Supermercado.deps.json
+C:\Projetos\AEDES\listas_aedes\Supermercado\bin\Debug\net7.0\Supermercado.runtimeconfig.json
+C:\Projetos\AEDES\listas_aedes\Supermercado\bin\Debug\net7.0\Supermercado.dll
+C:\Projetos\AEDES\listas_aedes\Supermercado\bin\Debug\net7.0\Supermercado.pdb
+C:\Projetos\AEDES\listas_aedes\Supermercado\obj\Debug\net7.0\Supermercado.dll
+C:\Projetos\AEDES\listas_aedes\Supermercado\obj\Debug\net7.0\refint\Supermercado.dll
+C:\Projetos\AEDES\listas_aedes\Supermercado\obj\Debug\net7.0\Supermercado.pdb
+C:\Projetos\AEDES\listas_aedes\Supermercado\obj\Debug\net7.0\Supermercado.genruntimeconfig.cache
+C:\Projetos\AEDES\listas_aedes\Supermercado\obj\Debug\net7.0\ref\Supermercado.dll

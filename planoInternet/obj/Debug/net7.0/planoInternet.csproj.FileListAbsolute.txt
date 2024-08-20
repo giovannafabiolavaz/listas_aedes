@@ -1,0 +1,15 @@
+C:\Projetos\AEDES\listas_aedes\planoInternet\obj\Debug\net7.0\planoInternet.csproj.AssemblyReference.cache
+C:\Projetos\AEDES\listas_aedes\planoInternet\obj\Debug\net7.0\planoInternet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AEDES\listas_aedes\planoInternet\obj\Debug\net7.0\planoInternet.AssemblyInfoInputs.cache
+C:\Projetos\AEDES\listas_aedes\planoInternet\obj\Debug\net7.0\planoInternet.AssemblyInfo.cs
+C:\Projetos\AEDES\listas_aedes\planoInternet\obj\Debug\net7.0\planoInternet.csproj.CoreCompileInputs.cache
+C:\Projetos\AEDES\listas_aedes\planoInternet\bin\Debug\net7.0\planoInternet.exe
+C:\Projetos\AEDES\listas_aedes\planoInternet\bin\Debug\net7.0\planoInternet.deps.json
+C:\Projetos\AEDES\listas_aedes\planoInternet\bin\Debug\net7.0\planoInternet.runtimeconfig.json
+C:\Projetos\AEDES\listas_aedes\planoInternet\bin\Debug\net7.0\planoInternet.dll
+C:\Projetos\AEDES\listas_aedes\planoInternet\bin\Debug\net7.0\planoInternet.pdb
+C:\Projetos\AEDES\listas_aedes\planoInternet\obj\Debug\net7.0\planoInternet.dll
+C:\Projetos\AEDES\listas_aedes\planoInternet\obj\Debug\net7.0\refint\planoInternet.dll
+C:\Projetos\AEDES\listas_aedes\planoInternet\obj\Debug\net7.0\planoInternet.pdb
+C:\Projetos\AEDES\listas_aedes\planoInternet\obj\Debug\net7.0\planoInternet.genruntimeconfig.cache
+C:\Projetos\AEDES\listas_aedes\planoInternet\obj\Debug\net7.0\ref\planoInternet.dll
