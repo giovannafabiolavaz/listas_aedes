@@ -1,0 +1,15 @@
+C:\Projetos\AEDES\listas_aedes\botasTrocadas\bin\Debug\net7.0\botasTrocadas.exe
+C:\Projetos\AEDES\listas_aedes\botasTrocadas\bin\Debug\net7.0\botasTrocadas.deps.json
+C:\Projetos\AEDES\listas_aedes\botasTrocadas\bin\Debug\net7.0\botasTrocadas.runtimeconfig.json
+C:\Projetos\AEDES\listas_aedes\botasTrocadas\bin\Debug\net7.0\botasTrocadas.dll
+C:\Projetos\AEDES\listas_aedes\botasTrocadas\bin\Debug\net7.0\botasTrocadas.pdb
+C:\Projetos\AEDES\listas_aedes\botasTrocadas\obj\Debug\net7.0\botasTrocadas.csproj.AssemblyReference.cache
+C:\Projetos\AEDES\listas_aedes\botasTrocadas\obj\Debug\net7.0\botasTrocadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AEDES\listas_aedes\botasTrocadas\obj\Debug\net7.0\botasTrocadas.AssemblyInfoInputs.cache
+C:\Projetos\AEDES\listas_aedes\botasTrocadas\obj\Debug\net7.0\botasTrocadas.AssemblyInfo.cs
+C:\Projetos\AEDES\listas_aedes\botasTrocadas\obj\Debug\net7.0\botasTrocadas.csproj.CoreCompileInputs.cache
+C:\Projetos\AEDES\listas_aedes\botasTrocadas\obj\Debug\net7.0\botasTrocadas.dll
+C:\Projetos\AEDES\listas_aedes\botasTrocadas\obj\Debug\net7.0\refint\botasTrocadas.dll
+C:\Projetos\AEDES\listas_aedes\botasTrocadas\obj\Debug\net7.0\botasTrocadas.pdb
+C:\Projetos\AEDES\listas_aedes\botasTrocadas\obj\Debug\net7.0\botasTrocadas.genruntimeconfig.cache
+C:\Projetos\AEDES\listas_aedes\botasTrocadas\obj\Debug\net7.0\ref\botasTrocadas.dll
