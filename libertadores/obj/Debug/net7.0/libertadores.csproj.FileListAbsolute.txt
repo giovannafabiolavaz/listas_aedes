@@ -1,0 +1,15 @@
+C:\Projetos\AEDES\listas_aedes\libertadores\obj\Debug\net7.0\libertadores.csproj.AssemblyReference.cache
+C:\Projetos\AEDES\listas_aedes\libertadores\obj\Debug\net7.0\libertadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AEDES\listas_aedes\libertadores\obj\Debug\net7.0\libertadores.AssemblyInfoInputs.cache
+C:\Projetos\AEDES\listas_aedes\libertadores\obj\Debug\net7.0\libertadores.AssemblyInfo.cs
+C:\Projetos\AEDES\listas_aedes\libertadores\obj\Debug\net7.0\libertadores.csproj.CoreCompileInputs.cache
+C:\Projetos\AEDES\listas_aedes\libertadores\bin\Debug\net7.0\libertadores.exe
+C:\Projetos\AEDES\listas_aedes\libertadores\bin\Debug\net7.0\libertadores.deps.json
+C:\Projetos\AEDES\listas_aedes\libertadores\bin\Debug\net7.0\libertadores.runtimeconfig.json
+C:\Projetos\AEDES\listas_aedes\libertadores\bin\Debug\net7.0\libertadores.dll
+C:\Projetos\AEDES\listas_aedes\libertadores\bin\Debug\net7.0\libertadores.pdb
+C:\Projetos\AEDES\listas_aedes\libertadores\obj\Debug\net7.0\libertadores.dll
+C:\Projetos\AEDES\listas_aedes\libertadores\obj\Debug\net7.0\refint\libertadores.dll
+C:\Projetos\AEDES\listas_aedes\libertadores\obj\Debug\net7.0\libertadores.pdb
+C:\Projetos\AEDES\listas_aedes\libertadores\obj\Debug\net7.0\libertadores.genruntimeconfig.cache
+C:\Projetos\AEDES\listas_aedes\libertadores\obj\Debug\net7.0\ref\libertadores.dll
