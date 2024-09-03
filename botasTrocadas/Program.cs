@@ -27,7 +27,7 @@ class Program
         int pares = 0;
         for (int i = 0; i < 31; i++)
         {
-            pares += Math.Min(Direita[i], Esquerda[i]);
+            pares += Math.Min(Direita[i], Esquerda[i]); //retorna o menor de dois inteiros 
         }
         Console.WriteLine(pares);
     }

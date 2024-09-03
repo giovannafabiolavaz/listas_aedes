@@ -33,7 +33,7 @@ class Program
                 //time 2 fez mais ponto no somatório das partidas
                 Console.WriteLine("Time 2");
             }
-            
+
             //somatório é igual
             else if (totalTime1 == totalTime2)
             {
