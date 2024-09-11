@@ -1,0 +1,15 @@
+C:\Projetos\AEDES\listas_aedes\Tornado\obj\Debug\net7.0\Tornado.csproj.AssemblyReference.cache
+C:\Projetos\AEDES\listas_aedes\Tornado\obj\Debug\net7.0\Tornado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AEDES\listas_aedes\Tornado\obj\Debug\net7.0\Tornado.AssemblyInfoInputs.cache
+C:\Projetos\AEDES\listas_aedes\Tornado\obj\Debug\net7.0\Tornado.AssemblyInfo.cs
+C:\Projetos\AEDES\listas_aedes\Tornado\obj\Debug\net7.0\Tornado.csproj.CoreCompileInputs.cache
+C:\Projetos\AEDES\listas_aedes\Tornado\bin\Debug\net7.0\Tornado.exe
+C:\Projetos\AEDES\listas_aedes\Tornado\bin\Debug\net7.0\Tornado.deps.json
+C:\Projetos\AEDES\listas_aedes\Tornado\bin\Debug\net7.0\Tornado.runtimeconfig.json
+C:\Projetos\AEDES\listas_aedes\Tornado\bin\Debug\net7.0\Tornado.dll
+C:\Projetos\AEDES\listas_aedes\Tornado\bin\Debug\net7.0\Tornado.pdb
+C:\Projetos\AEDES\listas_aedes\Tornado\obj\Debug\net7.0\Tornado.dll
+C:\Projetos\AEDES\listas_aedes\Tornado\obj\Debug\net7.0\refint\Tornado.dll
+C:\Projetos\AEDES\listas_aedes\Tornado\obj\Debug\net7.0\Tornado.pdb
+C:\Projetos\AEDES\listas_aedes\Tornado\obj\Debug\net7.0\Tornado.genruntimeconfig.cache
+C:\Projetos\AEDES\listas_aedes\Tornado\obj\Debug\net7.0\ref\Tornado.dll
