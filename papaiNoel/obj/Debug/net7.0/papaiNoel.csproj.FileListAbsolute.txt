@@ -1,0 +1,15 @@
+C:\Projetos\AEDES\listas_aedes\papaiNoel\bin\Debug\net7.0\papaiNoel.exe
+C:\Projetos\AEDES\listas_aedes\papaiNoel\bin\Debug\net7.0\papaiNoel.deps.json
+C:\Projetos\AEDES\listas_aedes\papaiNoel\bin\Debug\net7.0\papaiNoel.runtimeconfig.json
+C:\Projetos\AEDES\listas_aedes\papaiNoel\bin\Debug\net7.0\papaiNoel.dll
+C:\Projetos\AEDES\listas_aedes\papaiNoel\bin\Debug\net7.0\papaiNoel.pdb
+C:\Projetos\AEDES\listas_aedes\papaiNoel\obj\Debug\net7.0\papaiNoel.csproj.AssemblyReference.cache
+C:\Projetos\AEDES\listas_aedes\papaiNoel\obj\Debug\net7.0\papaiNoel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AEDES\listas_aedes\papaiNoel\obj\Debug\net7.0\papaiNoel.AssemblyInfoInputs.cache
+C:\Projetos\AEDES\listas_aedes\papaiNoel\obj\Debug\net7.0\papaiNoel.AssemblyInfo.cs
+C:\Projetos\AEDES\listas_aedes\papaiNoel\obj\Debug\net7.0\papaiNoel.csproj.CoreCompileInputs.cache
+C:\Projetos\AEDES\listas_aedes\papaiNoel\obj\Debug\net7.0\papaiNoel.dll
+C:\Projetos\AEDES\listas_aedes\papaiNoel\obj\Debug\net7.0\refint\papaiNoel.dll
+C:\Projetos\AEDES\listas_aedes\papaiNoel\obj\Debug\net7.0\papaiNoel.pdb
+C:\Projetos\AEDES\listas_aedes\papaiNoel\obj\Debug\net7.0\papaiNoel.genruntimeconfig.cache
+C:\Projetos\AEDES\listas_aedes\papaiNoel\obj\Debug\net7.0\ref\papaiNoel.dll
