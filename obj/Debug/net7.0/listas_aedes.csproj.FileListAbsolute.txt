@@ -1,0 +1,5 @@
+C:\Projetos\AEDES\listas_aedes\obj\Debug\net7.0\listas_aedes.csproj.AssemblyReference.cache
+C:\Projetos\AEDES\listas_aedes\obj\Debug\net7.0\listas_aedes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AEDES\listas_aedes\obj\Debug\net7.0\listas_aedes.AssemblyInfoInputs.cache
+C:\Projetos\AEDES\listas_aedes\obj\Debug\net7.0\listas_aedes.AssemblyInfo.cs
+C:\Projetos\AEDES\listas_aedes\obj\Debug\net7.0\listas_aedes.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Projetos\AEDES\listas_aedes\lista_teorica\bin\Debug\net7.0\lista_teorica.exe
+C:\Projetos\AEDES\listas_aedes\lista_teorica\bin\Debug\net7.0\lista_teorica.deps.json
+C:\Projetos\AEDES\listas_aedes\lista_teorica\bin\Debug\net7.0\lista_teorica.runtimeconfig.json
+C:\Projetos\AEDES\listas_aedes\lista_teorica\bin\Debug\net7.0\lista_teorica.dll
+C:\Projetos\AEDES\listas_aedes\lista_teorica\bin\Debug\net7.0\lista_teorica.pdb
+C:\Projetos\AEDES\listas_aedes\lista_teorica\obj\Debug\net7.0\lista_teorica.csproj.AssemblyReference.cache
+C:\Projetos\AEDES\listas_aedes\lista_teorica\obj\Debug\net7.0\lista_teorica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AEDES\listas_aedes\lista_teorica\obj\Debug\net7.0\lista_teorica.AssemblyInfoInputs.cache
+C:\Projetos\AEDES\listas_aedes\lista_teorica\obj\Debug\net7.0\lista_teorica.AssemblyInfo.cs
+C:\Projetos\AEDES\listas_aedes\lista_teorica\obj\Debug\net7.0\lista_teorica.csproj.CoreCompileInputs.cache
+C:\Projetos\AEDES\listas_aedes\lista_teorica\obj\Debug\net7.0\lista_teorica.dll
+C:\Projetos\AEDES\listas_aedes\lista_teorica\obj\Debug\net7.0\refint\lista_teorica.dll
+C:\Projetos\AEDES\listas_aedes\lista_teorica\obj\Debug\net7.0\lista_teorica.pdb
+C:\Projetos\AEDES\listas_aedes\lista_teorica\obj\Debug\net7.0\lista_teorica.genruntimeconfig.cache
+C:\Projetos\AEDES\listas_aedes\lista_teorica\obj\Debug\net7.0\ref\lista_teorica.dll

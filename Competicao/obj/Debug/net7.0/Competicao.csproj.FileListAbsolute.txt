@@ -1,0 +1,15 @@
+C:\Projetos\AEDES\listas_aedes\Competicao\bin\Debug\net7.0\Competicao.exe
+C:\Projetos\AEDES\listas_aedes\Competicao\bin\Debug\net7.0\Competicao.deps.json
+C:\Projetos\AEDES\listas_aedes\Competicao\bin\Debug\net7.0\Competicao.runtimeconfig.json
+C:\Projetos\AEDES\listas_aedes\Competicao\bin\Debug\net7.0\Competicao.dll
+C:\Projetos\AEDES\listas_aedes\Competicao\bin\Debug\net7.0\Competicao.pdb
+C:\Projetos\AEDES\listas_aedes\Competicao\obj\Debug\net7.0\Competicao.csproj.AssemblyReference.cache
+C:\Projetos\AEDES\listas_aedes\Competicao\obj\Debug\net7.0\Competicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AEDES\listas_aedes\Competicao\obj\Debug\net7.0\Competicao.AssemblyInfoInputs.cache
+C:\Projetos\AEDES\listas_aedes\Competicao\obj\Debug\net7.0\Competicao.AssemblyInfo.cs
+C:\Projetos\AEDES\listas_aedes\Competicao\obj\Debug\net7.0\Competicao.csproj.CoreCompileInputs.cache
+C:\Projetos\AEDES\listas_aedes\Competicao\obj\Debug\net7.0\Competicao.dll
+C:\Projetos\AEDES\listas_aedes\Competicao\obj\Debug\net7.0\refint\Competicao.dll
+C:\Projetos\AEDES\listas_aedes\Competicao\obj\Debug\net7.0\Competicao.pdb
+C:\Projetos\AEDES\listas_aedes\Competicao\obj\Debug\net7.0\Competicao.genruntimeconfig.cache
+C:\Projetos\AEDES\listas_aedes\Competicao\obj\Debug\net7.0\ref\Competicao.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "lista_teorica/1.0.0": {
+        "runtime": {
+          "lista_teorica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lista_teorica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

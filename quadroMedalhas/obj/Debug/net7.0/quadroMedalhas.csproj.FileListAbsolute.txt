@@ -1,0 +1,15 @@
+C:\Projetos\AEDES\listas_aedes\quadroMedalhas\bin\Debug\net7.0\quadroMedalhas.exe
+C:\Projetos\AEDES\listas_aedes\quadroMedalhas\bin\Debug\net7.0\quadroMedalhas.deps.json
+C:\Projetos\AEDES\listas_aedes\quadroMedalhas\bin\Debug\net7.0\quadroMedalhas.runtimeconfig.json
+C:\Projetos\AEDES\listas_aedes\quadroMedalhas\bin\Debug\net7.0\quadroMedalhas.dll
+C:\Projetos\AEDES\listas_aedes\quadroMedalhas\bin\Debug\net7.0\quadroMedalhas.pdb
+C:\Projetos\AEDES\listas_aedes\quadroMedalhas\obj\Debug\net7.0\quadroMedalhas.csproj.AssemblyReference.cache
+C:\Projetos\AEDES\listas_aedes\quadroMedalhas\obj\Debug\net7.0\quadroMedalhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AEDES\listas_aedes\quadroMedalhas\obj\Debug\net7.0\quadroMedalhas.AssemblyInfoInputs.cache
+C:\Projetos\AEDES\listas_aedes\quadroMedalhas\obj\Debug\net7.0\quadroMedalhas.AssemblyInfo.cs
+C:\Projetos\AEDES\listas_aedes\quadroMedalhas\obj\Debug\net7.0\quadroMedalhas.csproj.CoreCompileInputs.cache
+C:\Projetos\AEDES\listas_aedes\quadroMedalhas\obj\Debug\net7.0\quadroMedalhas.dll
+C:\Projetos\AEDES\listas_aedes\quadroMedalhas\obj\Debug\net7.0\refint\quadroMedalhas.dll
+C:\Projetos\AEDES\listas_aedes\quadroMedalhas\obj\Debug\net7.0\quadroMedalhas.pdb
+C:\Projetos\AEDES\listas_aedes\quadroMedalhas\obj\Debug\net7.0\quadroMedalhas.genruntimeconfig.cache
+C:\Projetos\AEDES\listas_aedes\quadroMedalhas\obj\Debug\net7.0\ref\quadroMedalhas.dll

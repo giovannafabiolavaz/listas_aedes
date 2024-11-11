@@ -1,0 +1,15 @@
+C:\Projetos\AEDES\listas_aedes\Pokemon\bin\Debug\net7.0\Pokemon.exe
+C:\Projetos\AEDES\listas_aedes\Pokemon\bin\Debug\net7.0\Pokemon.deps.json
+C:\Projetos\AEDES\listas_aedes\Pokemon\bin\Debug\net7.0\Pokemon.runtimeconfig.json
+C:\Projetos\AEDES\listas_aedes\Pokemon\bin\Debug\net7.0\Pokemon.dll
+C:\Projetos\AEDES\listas_aedes\Pokemon\bin\Debug\net7.0\Pokemon.pdb
+C:\Projetos\AEDES\listas_aedes\Pokemon\obj\Debug\net7.0\Pokemon.csproj.AssemblyReference.cache
+C:\Projetos\AEDES\listas_aedes\Pokemon\obj\Debug\net7.0\Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AEDES\listas_aedes\Pokemon\obj\Debug\net7.0\Pokemon.AssemblyInfoInputs.cache
+C:\Projetos\AEDES\listas_aedes\Pokemon\obj\Debug\net7.0\Pokemon.AssemblyInfo.cs
+C:\Projetos\AEDES\listas_aedes\Pokemon\obj\Debug\net7.0\Pokemon.csproj.CoreCompileInputs.cache
+C:\Projetos\AEDES\listas_aedes\Pokemon\obj\Debug\net7.0\Pokemon.dll
+C:\Projetos\AEDES\listas_aedes\Pokemon\obj\Debug\net7.0\refint\Pokemon.dll
+C:\Projetos\AEDES\listas_aedes\Pokemon\obj\Debug\net7.0\Pokemon.pdb
+C:\Projetos\AEDES\listas_aedes\Pokemon\obj\Debug\net7.0\Pokemon.genruntimeconfig.cache
+C:\Projetos\AEDES\listas_aedes\Pokemon\obj\Debug\net7.0\ref\Pokemon.dll

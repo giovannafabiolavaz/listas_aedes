@@ -1,0 +1,15 @@
+C:\Projetos\AEDES\listas_aedes\descobrindoSenhas\bin\Debug\net7.0\descobrindoSenhas.exe
+C:\Projetos\AEDES\listas_aedes\descobrindoSenhas\bin\Debug\net7.0\descobrindoSenhas.deps.json
+C:\Projetos\AEDES\listas_aedes\descobrindoSenhas\bin\Debug\net7.0\descobrindoSenhas.runtimeconfig.json
+C:\Projetos\AEDES\listas_aedes\descobrindoSenhas\bin\Debug\net7.0\descobrindoSenhas.dll
+C:\Projetos\AEDES\listas_aedes\descobrindoSenhas\bin\Debug\net7.0\descobrindoSenhas.pdb
+C:\Projetos\AEDES\listas_aedes\descobrindoSenhas\obj\Debug\net7.0\descobrindoSenhas.csproj.AssemblyReference.cache
+C:\Projetos\AEDES\listas_aedes\descobrindoSenhas\obj\Debug\net7.0\descobrindoSenhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AEDES\listas_aedes\descobrindoSenhas\obj\Debug\net7.0\descobrindoSenhas.AssemblyInfoInputs.cache
+C:\Projetos\AEDES\listas_aedes\descobrindoSenhas\obj\Debug\net7.0\descobrindoSenhas.AssemblyInfo.cs
+C:\Projetos\AEDES\listas_aedes\descobrindoSenhas\obj\Debug\net7.0\descobrindoSenhas.csproj.CoreCompileInputs.cache
+C:\Projetos\AEDES\listas_aedes\descobrindoSenhas\obj\Debug\net7.0\descobrindoSenhas.dll
+C:\Projetos\AEDES\listas_aedes\descobrindoSenhas\obj\Debug\net7.0\refint\descobrindoSenhas.dll
+C:\Projetos\AEDES\listas_aedes\descobrindoSenhas\obj\Debug\net7.0\descobrindoSenhas.pdb
+C:\Projetos\AEDES\listas_aedes\descobrindoSenhas\obj\Debug\net7.0\descobrindoSenhas.genruntimeconfig.cache
+C:\Projetos\AEDES\listas_aedes\descobrindoSenhas\obj\Debug\net7.0\ref\descobrindoSenhas.dll

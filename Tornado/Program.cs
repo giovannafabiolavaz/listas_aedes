@@ -1,23 +1,23 @@
 ﻿//Giovanna Fabíola Vaz
 using System;
+namespace Tornado;
 class Program
 {
     static void Main(string[] args)
     {
         //Número total de postes
-        int N;
-
+        int N = int.Parse(Console.ReadLine());
         //Condição de parada: N = 0
-        while ((N = int.Parse(Console.ReadLine())) != 0)
+        while (N != 0)
         {
             int[] X = new int[N];
             //Leitura de todos os dados em uma só linha
             string[] str = Console.ReadLine().Split();
 
             //Preenche o vetor com 0 (sem poste) e 1 (com poste)
-            for (int i = 0; i < N; i++)
+            for (int k = 0; k < N; k++)
             {
-                X[i] = int.Parse(str[i]);
+                X[k] = int.Parse(str[k]);
             }
 
             int postesMadeira = 0;
@@ -41,6 +41,8 @@ class Program
             }
 
             Console.WriteLine(postesMadeira);
+
+            N = int.Parse(Console.ReadLine());
         }
     }
 }
